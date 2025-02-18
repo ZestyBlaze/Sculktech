@@ -1,0 +1,10 @@
+{
+  "homepage": "https://github.com/ZestyBlaze/Sculktech",
+  "1.21.4": {
+    "0.0.1-alpha": "The first version of the mod"
+  },
+  "promos": {
+    "1.21.4-latest": "0.0.1-alpha",
+    "1.21.4-recommended": "0.0.1-alpha"
+  }
+}
