@@ -7,7 +7,7 @@ issueTrackerURL="https://github.com/ZestyBlaze/Sculktech/issues"
 modId="${mod_id}"
 version="${mod_version}"
 displayName="${mod_name}"
-#updateJSONURL="https://change.me.example.invalid/updates.json"
+updateJSONURL="https://raw.githubusercontent.com/ZestyBlaze/Sculktech/refs/heads/1.21.4-neo/update.json"
 displayURL="https://github.com/ZestyBlaze/Sculktech"
 #logoFile="examplemod.png" #optional
 
